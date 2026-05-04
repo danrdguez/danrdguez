@@ -20,7 +20,7 @@
 
 <p align="center">
   <b>Frameworks & Tools</b> &nbsp;
-  <img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,git,docker,linux,nginx,vscode" align="center" />
+  <img src="https://skillicons.dev/icons?i=react,typescript,nodejs,nestjs,git,docker,linux,nginx,vscode" align="center" />
 </p>
 
 <br/>
@@ -31,9 +31,9 @@
 ### 🚀 Featured Projects
 *(Working on private enterprise & academic repositories)*
 
-**[Nombre de tu Proyecto Top]**  
-*Descripción de una frase sobre qué hace el proyecto y el problema que resuelve.*  
-`React` • `Node.js` • `PostgreSQL`
+**Smart Economato** 🛒  
+*Sistema de gestión integral para centros educativos de hostelería. Arquitectura escalable con trazabilidad completa, alertas de caducidad, control presupuestario e integración IoT (básculas y escáneres).*  
+`React` • `TypeScript` • `NestJS` • `PostgreSQL` • `Docker`
 
 ---
 
