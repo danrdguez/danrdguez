@@ -21,11 +21,11 @@
 *(Stats include contributions to shared and private projects)*
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danrdguez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danrdguez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danrdguez&theme=tokyonight&hide_border=true" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=danrdguez&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
