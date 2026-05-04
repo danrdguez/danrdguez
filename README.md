@@ -10,13 +10,13 @@
 ### 🛠️ My Tech Stack
 
 **Frontend**
-![My Skills](https://skillicons.dev/icons?i=html,css,js,react,nextjs,tailwind,bootstrap)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,react)
 
 **Backend & DB**
-![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,java,spring,php,mysql,postgres,mongodb,redis)
+![My Skills](https://skillicons.dev/icons?i=nodejs,nestjs,java,php,mysql,postgres)
 
 **DevOps & Tools**
-![My Skills](https://skillicons.dev/icons?i=git,docker,linux,nginx,vscode,postman)
+![My Skills](https://skillicons.dev/icons?i=git,docker,linux,nginx,vscode)
 
 ---
 
@@ -24,8 +24,8 @@
 
 <table align="center">
   <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=danrdguez&show_icons=true&theme=tokyonight&hide_border=true" alt="Stats" /></td>
-    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danrdguez&layout=compact&theme=tokyonight&hide_border=true" alt="Langs" /></td>
+    <td><img src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=danrdguez&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Stats" /></td>
+    <td><img src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=danrdguez&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="Langs" /></td>
   </tr>
 </table>
 
@@ -41,11 +41,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danrdguez/danrdguez/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/danrdguez/danrdguez/output/github-contribution-grid-snake.svg">
 </picture>
-
----
-
-### 🤝 Connect with me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/TU_USUARIO)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://tuportfolio.com)
 
 </div>
