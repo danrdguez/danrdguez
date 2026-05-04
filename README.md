@@ -9,16 +9,15 @@
 
 ### 🛠️ Professional Skills
 
-<table align="center">
-  <tr>
-    <td align="right"><b>Languages & Core</b></td>
-    <td><img src="https://skillicons.dev/icons?i=html,css,js,java,php,mysql,postgres" /></td>
-  </tr>
-  <tr>
-    <td align="right"><b>Frameworks & Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,git,docker,linux,nginx,vscode" /></td>
-  </tr>
-</table>
+<p align="center">
+  <b>Languages & Core</b> &nbsp;
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,php,mysql,postgres" align="center" />
+</p>
+
+<p align="center">
+  <b>Frameworks & Tools</b> &nbsp;
+  <img src="https://skillicons.dev/icons?i=react,nodejs,nestjs,git,docker,linux,nginx,vscode" align="center" />
+</p>
 
 ---
 
