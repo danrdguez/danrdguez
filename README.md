@@ -18,14 +18,14 @@
 ---
 
 ### 📊 GitHub Activity
-*(Stats include contributions to shared and private projects)*
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danrdguez&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-</p>
+*(Focusing on private & shared development)*
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=danrdguez&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=danrdguez&theme=tokyonight" alt="Detailed Stats" />
 </p>
 
 ---
