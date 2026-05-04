@@ -5,10 +5,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Junior+Full+Stack+Developer;DAW+Graduate+2026;Open+to+new+opportunities" alt="Typing SVG" />
 
-<p align="center">
-<a href="mailto:danielrguezhdez06@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"></a>
-</p>
-
 ---
 
 ### 🛠️ Professional Skills
