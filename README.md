@@ -4,8 +4,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Junior+Full+Stack+Developer;DAW+Graduate+2026;Building+scalable+web+apps;Open+to+new+opportunities" alt="Typing SVG" />
 
-<img src="https://komarev.com/ghpvc/?username=danrdguez&color=36BCF7&style=flat&label=Profile+Views" alt="Profile Views" />
-
 </div>
 
 ---
@@ -49,11 +47,6 @@ Sistema escalable con trazabilidad completa de productos, alertas de caducidad, 
 ---
 
 ## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=danrdguez&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=danrdguez&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165" alt="Top Languages" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=danrdguez&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
