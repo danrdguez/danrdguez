@@ -2,7 +2,7 @@
 
 # Hi there! I'm Daniel Rodríguez 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Junior+Full+Stack+Developer;DAW+Graduate+2026;Building+scalable+web+apps;Open+to+new+opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Desarrollador+de+Aplicaciones+Web;Building+scalable+web+apps;DAW+Graduate+2026;Open+to+new+opportunities" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://danielrguez.netlify.app" target="_blank">
@@ -16,7 +16,7 @@
 
 ## 👨‍💻 About Me
 
-- 🎓 **DAW Graduate 2026** — Full-stack web development focus
+- 💻 **Desarrollador de Aplicaciones Web (DAW)** — Enfocado en la creación de soluciones digitales completas, robustas y escalables.
 - 🔭 Currently building **Smart Economato**, an enterprise resource management platform
 - 🌱 Currently deepening my knowledge in **microservices**, **CI/CD** and **cloud deployments**
 - 💡 Passionate about clean architecture, developer experience and solving real problems
