@@ -16,12 +16,19 @@
 
 ## 👨‍💻 About Me
 
-- 💻 **Desarrollador de Aplicaciones Web (DAW)** — Enfocado en la creación de soluciones digitales completas, robustas y escalables.
+- 💻 **Desarrollador de Aplicaciones Web (DAW)** — Enfocado en la creación de soluciones digitales completas, robustas y scalables.
 - 🔭 Currently building **Smart Economato**, an enterprise resource management platform
 - 🌱 Currently deepening my knowledge in **microservices**, **CI/CD** and **cloud deployments**
 - 💡 Passionate about clean architecture, developer experience and solving real problems
 - 🤝 Open to junior opportunities, collaborations and interesting projects
 - 📍 Spain
+
+---
+
+## 🌐 Languages
+
+- 🇪🇸 **Spanish** — Native
+- 🇬🇧 **English** — B2 Certified
 
 ---
 
