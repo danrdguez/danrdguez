@@ -14,7 +14,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👨🏼‍💻 About Me
 
 - 💻 **Desarrollador de Aplicaciones Web (DAW)** — Enfocado en la creación de soluciones digitales completas, robustas y scalables.
 - 🔭 Currently building **Smart Economato**, an enterprise resource management platform
