@@ -1,8 +1,12 @@
+<div align="right">
+  <b>🇬🇧 English</b> | <a href="README-es.md">🇪🇸 Español</a>
+</div>
+
 <div align="center">
 
 # Hi there! I'm Daniel Rodríguez 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Desarrollador+de+Aplicaciones+Web;Building+scalable+web+apps;DAW+Graduate+2026;Open+to+new+opportunities" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Web+Application+Developer;Building+scalable+web+apps;DAW+Graduate+2026;Open+to+new+opportunities" alt="Typing SVG" />
 
 <p align="center">
   <a href="https://danielrguez.netlify.app" target="_blank">
@@ -16,11 +20,11 @@
 
 ## 👨🏼‍💻 About Me
 
-- 💻 **Desarrollador de Aplicaciones Web (DAW)** — Enfocado en la creación de soluciones digitales completas, robustas y scalables.
-- 🔭 Currently building **Smart Economato**, an enterprise resource management platform
-- 🌱 Currently deepening my knowledge in **microservices**, **CI/CD** and **cloud deployments**
-- 💡 Passionate about clean architecture, developer experience and solving real problems
-- 🤝 Open to junior opportunities, collaborations and interesting projects
+- 💻 **Web Application Developer (DAW)** — Focused on building complete, robust, and scalable digital solutions.
+- 🔭 Currently building **Smart Economato**, an enterprise resource management platform.
+- 🌱 Currently deepening my knowledge in **microservices**, **CI/CD**, and **cloud deployments**.
+- 💡 Passionate about clean architecture, developer experience, and solving real problems.
+- 🤝 Open to junior opportunities, collaborations, and interesting projects.
 - 📍 Spain
 
 ---
@@ -56,9 +60,9 @@
 ## 🚀 Featured Projects
 
 ### 🛒 [Smart Economato](https://github.com/danrdguez/smart-economato)
-> Sistema de gestión integral para centros educativos de hostelería
+> Comprehensive resource management system for culinary educational centers.
 
-Sistema escalable con trazabilidad completa de productos, alertas de caducidad, control presupuestario e integración IoT (básculas y escáneres).
+Scalable system featuring full product traceability, expiration alerts, budget control, and IoT integration (scales and barcode scanners).
 
 `React` · `TypeScript` · `NestJS` · `PostgreSQL` · `Docker`
 
